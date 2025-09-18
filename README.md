@@ -4,14 +4,6 @@
 
 ---
 
-<p align="center">
-  <img alt="palette" src="https://via.placeholder.com/760x120/ A8E6CF/1f2430?text=+" />
-</p>
-
-**Palette:** `#A8E6CF` (hijau muda) • `#1F2430` (tokyo-night gelap) • `#89CFF0` (biru muda)
-
----
-
 ## Ringkasan singkat
 
 T4n-Manager adalah package manager minimalis yang ditulis dengan **Zig**. Fokusnya pada:
@@ -129,15 +121,8 @@ max_snapshots = 10
 
 ---
 
-## Kontribusi
-- Fork → buat branch → PR.
-- Ikuti gaya Zig project (formatting, linting).
-- Sertakan test untuk fitur baru — khususnya rollback & integrasi xbps-src.
-
----
-
 ## Lisensi
-MIT — lihat `LICENSE`.
+GPL-3.0 `LICENSE`.
 
 ---
 
